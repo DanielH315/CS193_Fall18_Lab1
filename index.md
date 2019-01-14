@@ -1,4 +1,4 @@
-# <Daniel>'s first CS193 Lab
+# Daniel's first CS193 Lab
 ## Header 2
 ### Header 3
 
